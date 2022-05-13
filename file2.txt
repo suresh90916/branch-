@@ -1,1 +1,7 @@
-this is new edit by branch master
+
+
+hello world
+hi
+how 
+are you
+
